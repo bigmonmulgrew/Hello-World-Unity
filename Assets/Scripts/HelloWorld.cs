@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class HelloWorld : MonoBehaviour
 {
+    // This is a commment
     string myString = "My name is Dave";
 
     // Start is called before the first frame update
